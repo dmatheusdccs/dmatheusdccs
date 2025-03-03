@@ -6,4 +6,8 @@ width="800"/>
 
 <div id="badges" align="center">
   
-[![](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivismatheusdcs1234/)
+<a href="https://www.linkedin.com/in/deivismatheusdccs1234/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+
